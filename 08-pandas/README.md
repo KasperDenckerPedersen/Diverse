@@ -1,0 +1,2 @@
+# Session 8: Data Analysis with Pandas
+In this session, you will learn the basics about the Python library ```pandas```. In the Python ecosystem ```pandas``` is the defacto standard for data analysis and data manipulation used in many different projects.
